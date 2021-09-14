@@ -1,0 +1,10 @@
+{
+  "env": {
+    "DB_USER": "admin2",
+    "DB_PASSWORD": "A5zBhF74qI9nG6gy",
+    "DB_NAME": "wwr",
+    "JWT_KEY": "lordisamassivecunt",
+    "DISCORD_CALLBACK_URL": "http://localhost:3000",
+    "WEB_URL": "http://localhost:3000"
+  }
+}
